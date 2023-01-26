@@ -16,6 +16,8 @@ Using this plugin, confusing one environment for another is more difficult.
 * Altis.
 * Colours are provided.
 
+Hacking on this is encouraged!
+
 ## FAQ
 
 ### How do I select another default color scheme?
