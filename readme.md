@@ -1,6 +1,6 @@
 # HM Environment Colors
 
-Preset colors per Altis Environment. The following defaults are set:
+Default colors per Altis Environment. The following defaults are set:
 
 	$fallback = [
 		'production' => 'altis',
