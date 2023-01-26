@@ -9,6 +9,8 @@ Preset colors per Altis Environment. The following defaults are set:
 		'local' => 'fresh',
 	];
 
+Using this plugin, confusing one environment for another is more difficult.
+
 ## Requirements
 
 * Altis.
