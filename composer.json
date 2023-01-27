@@ -1,0 +1,10 @@
+{
+  "name": "humanmade/hm-environment-colors",
+  "description": "Default colors per Altis Environment.",
+  "license": "GPL-2.0-or-later",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.2",
+    "composer/installers": "^1.0 || ^2.0"
+  }
+}
